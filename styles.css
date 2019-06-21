@@ -1,0 +1,48 @@
+body {
+    background-color: #d6eaf0;
+    padding: 2em 9em;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#red-bull {
+    color: blue;
+}
+
+#drunken-fish {
+    color: darkred
+}
+
+#gamlin {
+    color: sienna
+}
+
+#thinktank {
+    color: lightsalmon
+}
+
+#sauce {
+    color: indianred
+}
+
+#yellowbelly {
+    color: rebeccapurple
+}
+.links {
+    font-style: italic;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    margin: 0.5em 1em;
+    box-shadow: #bbbbbb 0.5em 0.3em 0.4em;
+}
+
+p {
+    background-color: #ffffff;
+    padding: 1em;
+    border-radius: 0.5em;
+    box-shadow: #bbbbbb 0.5em 0.3em 0.4em;
+}
